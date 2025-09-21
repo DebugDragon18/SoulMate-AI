@@ -85,7 +85,3 @@ Contributions, feedback, and new ideas are always welcome! Please open an issue 
 ## 📜 License
 
 This project is licensed under the GNU GPLv3– feel free to use and adapt with attribution.
-
----
-
-👉 Do you want me to also design a **repo cover image (banner)** with the name + tagline (like a hackathon project showcase style) so it looks visually attractive on GitHub?
