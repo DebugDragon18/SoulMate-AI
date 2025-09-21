@@ -56,7 +56,7 @@ Youth in India face enormous academic and social pressure, yet mental health car
 3. Add your API keys to `.env`:
 
    ```env
-   OPENROUTER_API_KEY=your_api_key_here
+   OPENROUTER_API_KEY= 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
    ```
 
 4. Start development server:
