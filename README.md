@@ -1,8 +1,7 @@
 # SoulMate-AI
 AI-powered youth mental wellness platform with features like Mind Log, Mood History, Vibe Match, Soul Connect, and ThriveTrack. Includes empathetic voice mode, growth avatars, and three AI personalities (Ira, Ariv, Dr. Aarav) to provide confidential, stigma-free emotional support.
-Perfect 🚀 — here’s a **ready-to-copy polished GitHub README intro** for your project repo:
 
----
+
 
 # 🌱 Youth Mental Wellness AI Platform
 
